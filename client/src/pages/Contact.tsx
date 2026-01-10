@@ -75,16 +75,16 @@ export default function Contact() {
               <Phone className="w-12 h-12 text-primary mx-auto mb-4" />
               <h3 className="text-lg font-semibold text-foreground mb-2">Phone</h3>
               <a
-                href="tel:+919876543210"
+                href="tel:+919876xxxx10"
                 className="text-gray-600 hover:text-primary transition-colors"
               >
-                +91 9876543210
+                +91 9876xxxx10
               </a>
             </div>
             <div className="text-center">
               <MapPin className="w-12 h-12 text-primary mx-auto mb-4" />
               <h3 className="text-lg font-semibold text-foreground mb-2">Location</h3>
-              <p className="text-gray-600">Bangalore, India</p>
+              <p className="text-gray-600">Hyderabad, India</p>
             </div>
             <div className="text-center">
               <Globe className="w-12 h-12 text-primary mx-auto mb-4" />
@@ -144,7 +144,7 @@ export default function Contact() {
                     name="phone"
                     value={formData.phone}
                     onChange={handleChange}
-                    placeholder="+91 9876543210"
+                    placeholder="+91 000-000-000"
                     className="w-full px-4 py-2 border border-border rounded-md focus:outline-none focus:ring-2 focus:ring-primary"
                   />
                 </div>
@@ -209,7 +209,7 @@ export default function Contact() {
                 Service Area & Reach
               </h2>
               <p className="text-gray-600 mb-6 leading-relaxed">
-                Jayasri Technology Services operates as a remote-first organization, serving clients across India and globally. While our team is based in Bangalore, we work with clients in diverse time zones and geographies.
+                Jayasri Technology Services operates as a remote-first organization, serving clients across India and globally. While our team is based in Hyderabad, we work with clients in diverse time zones and geographies.
               </p>
 
               <div className="bg-white rounded-lg p-6 border border-border mb-6">
