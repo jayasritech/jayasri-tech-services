@@ -23,7 +23,7 @@ export default function Navigation() {
               <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center text-white font-bold">
                 JS
               </div>
-              <span>Jay Sree</span>
+              <span>Jay Sri</span>
             </a>
           </Link>
 
