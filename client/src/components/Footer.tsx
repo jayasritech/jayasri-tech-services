@@ -77,15 +77,15 @@ export default function Footer() {
               <li className="flex items-start gap-2">
                 <Phone size={16} className="mt-0.5 flex-shrink-0" />
                 <a
-                  href="tel:+919876543210"
+                  href="tel:+919876xxxx10"
                   className="text-gray-300 hover:text-white transition-colors"
                 >
-                  +91 9876543210
+                  +91 9876xxxx10
                 </a>
               </li>
               <li className="flex items-start gap-2">
                 <MapPin size={16} className="mt-0.5 flex-shrink-0" />
-                <span className="text-gray-300">Bangalore, India</span>
+                <span className="text-gray-300">Hyderabad, India</span>
               </li>
             </ul>
           </div>
