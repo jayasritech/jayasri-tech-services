@@ -12,7 +12,7 @@ export default function Footer() {
               <div className="w-8 h-8 bg-white rounded-lg flex items-center justify-center text-foreground font-bold">
                 JS
               </div>
-              Jay Sree
+              Jay Sri
             </h3>
             <p className="text-gray-300 text-sm">
               End-to-End IT Solutions for Growing Businesses
@@ -122,7 +122,7 @@ export default function Footer() {
         {/* Divider */}
         <div className="border-t border-gray-700 pt-8">
           <p className="text-center text-gray-400 text-sm">
-            © 2025 Jayasri Technology Services. All rights reserved.
+            © 2026 Jayasri Technology Services. All rights reserved.
           </p>
         </div>
       </div>
